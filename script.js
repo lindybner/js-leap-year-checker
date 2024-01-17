@@ -16,3 +16,4 @@ const isLeapYear = (year) => {
 // Example usage:
 const yearToCheck = 2024;
 console.log(`${yearToCheck} is a leap year: ${isLeapYear(yearToCheck)}`);
+//Output: true
